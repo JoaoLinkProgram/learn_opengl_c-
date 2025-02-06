@@ -6,7 +6,7 @@ namespace Programa{
     public static class Programa{
         private static void Main(){
             var nativeWindowSettigs=new NativeWindowSettings(){
-                ClientSize=new Vector2i(800,600),
+                ClientSize=new Vector2i(400,400),
                 Title="janela",
                 Flags=ContextFlags.ForwardCompatible,
             };

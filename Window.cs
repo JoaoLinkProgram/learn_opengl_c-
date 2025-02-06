@@ -19,6 +19,7 @@ namespace Janela{
         public Window(GameWindowSettings gameWindowSettings, NativeWindowSettings nativeWindowSettings) :base(gameWindowSettings ,nativeWindowSettings){
 
         }
+        //executa uma vez quando a janela e chamada
         protected override void OnLoad(){
             base.OnLoad();
             GL.ClearColor(0.0f, 0.0f, 1.0f, 1.0f);

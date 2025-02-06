@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("software_3D_c#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1944a523a87b735b72197ac6d0a273bb39cf50b")]
 [assembly: System.Reflection.AssemblyProductAttribute("software_3D_c#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("software_3D_c#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
